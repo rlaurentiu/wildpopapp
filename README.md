@@ -1,2 +1,3 @@
-# wildpopshiny
- WildPop Shiny app
+# Shiny app pentru estimarea abundenței și ocupanței animalelor sălbatice
+ [WildPop Shiny app](https://wildpop.ccmesi.ro/)
+Scopul WildPop este de a accesibiliza astfel de modele de analiză și să îmbunătățească estimările demografice ale populațiilor speciilor de animale sălbatice din România, prin dezvoltarea, testarea și punerea la dispoziție a unei aplicații interactive de evaluarea a abundenței și distribuției animalelor sălbatice, care să poată utiliza date obținute de cercetători și administratorii fondurilor de vânătoare. Pentru atingerea acestui scop, se vor evalua rezultatele proiectelor de monitorizare a speciilor, se vor identifica punctele tari și punctele slabe ale acestor proiecte din perspectiva robusteței estimărilor demografice în urma aplicării de modelare de tip ocupanță, se va elabora un cadru eficient de estimare a populațiilor utilizând camere foto și transecte utilizând modele interactive R Shiny.
