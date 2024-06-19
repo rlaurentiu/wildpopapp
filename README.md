@@ -8,7 +8,7 @@ Proiect experimental demonstrativ (PED) PN-III-P2-2.1-PED-2021-1965 Interactive 
 
 # Pentru rularea aplicaţiei în computerul propriu 
 
-## Descărcaţi fişierele din proiectul acesta (instalaţi în prealabil RStudio şi R  R 3.6.0+ https://posit.co/download/rstudio-desktop/)
+## Descărcaţi fişierele din proiectul acesta (instalaţi în prealabil RStudio şi R 3.6.0+ https://posit.co/download/rstudio-desktop/)
 
 # Pentru rularea aplicaţiei în cloud accesaţi:
 
