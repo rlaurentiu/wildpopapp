@@ -6,7 +6,7 @@
 
 Proiect experimental demonstrativ (PED) PN-III-P2-2.1-PED-2021-1965 Interactive tool for estimating abundance of wildlife populations (WildPop). Finanțator Unitatea Executivă pentru Finanțarea Învățământului Superior a Cercetării Dezvoltării și Inovării (UEFISCDI)
 
-# Pentru rularea aplicaţiei in cloud accesaţi:
+# Pentru rularea aplicaţiei în cloud accesaţi:
 
 ## Simulare modele ocupanţă o singură specie, un singur sezon https://wildpop.shinyapps.io/simoccu/ 
 ## Simulare modele N-mixture o singură species, un singur sezon https://wildpop.shinyapps.io/simrn/
