@@ -15,4 +15,4 @@ Proiect experimental demonstrativ (PED) PN-III-P2-2.1-PED-2021-1965 Interactive 
 ## Simulare modele ocupanţă o singură specie, un singur sezon https://wildpop.shinyapps.io/simoccu/ 
 ## Simulare modele N-mixture o singură species, un singur sezon https://wildpop.shinyapps.io/simrn/
 ## Modelare ocupanţă o singură specie, un singur sezon https://wildpop.shinyapps.io/singlespecies/
-## Modelare abudenţă N-mixture o singură species, un singur sezon https://wildpop.shinyapps.io/simoccu/
+## Modelare abudenţă N-mixture o singură species, un singur sezon https://wildpop.shinyapps.io/nmixture/
